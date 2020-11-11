@@ -15,7 +15,7 @@ Team members with **little** or **basic** acknowledgement of OpenCV and digital 
 7. [Edge Detection 边缘检测](./codes/7_EdgeDetect)
 8. [Line Detection 直线检测](./codes/8_LineDetect)
 9. [Affine Mapping 图像仿射变换](./codes/9_AffineMapping)
-10.[Bounding Rectangle 最小包围矩形](./codes/10_BoundingRect)
+10. [Bounding Rectangle 最小包围矩形](./codes/10_BoundingRect)
 
 ## Basic Machine Learning Learning list 
 1. [SVM classification 支持向量机分类](./codes/11_SVM)
