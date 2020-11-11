@@ -1,8 +1,5 @@
-//
-// Created by 李喆昊 on 2020/11/11.
-//
-#include "opencv2/imgproc/imgproc.hpp"
-#include "opencv2/highgui/highgui.hpp"
+#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/highgui/highgui.hpp>
 #include <stdlib.h>
 #include <stdio.h>
 
