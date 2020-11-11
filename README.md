@@ -24,6 +24,8 @@ Team members with **little** or **basic** acknowledgement of OpenCV and digital 
 # Other Useful Resources
 在这里放置学习opencv的一些有用资源 
 + opencv 学习
+    + [official tutorial (Highly Recommended!)](http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html)
 + Git 学习
-+ cmake 学习
+    + [official tutorial (Highly Recommended!)](https://git-scm.com/book/en/v2)
++ cmake 学习 
 + 机器学习入门
