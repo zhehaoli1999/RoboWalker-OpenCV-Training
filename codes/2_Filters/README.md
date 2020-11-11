@@ -14,6 +14,7 @@
 + Bilateral Filter 双边滤波器
 
 ## Tutorial Source 来源
-[Offical site](http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/imgproc/gausian_median_blur_bilateral_filter/gausian_median_blur_bilateral_filter.html#smoothing)
+[official tutorial 图像平滑处理](http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/imgproc/gausian_median_blur_bilateral_filter/gausian_median_blur_bilateral_filter.html#smoothing)
 
+[official tutorial 实现自己的线性滤波器](http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/imgproc/imgtrans/filter_2d/filter_2d.html#filter-2d)
 ## Other References 其他参考资料
